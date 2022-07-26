@@ -1,19 +1,23 @@
 {
-  "posts": [
+  "tasks": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": 2,
+      "text": "chipotle",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "text": "squishamallow",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "squishamallow",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+  ]
 }
